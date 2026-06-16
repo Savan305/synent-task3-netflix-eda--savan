@@ -6,7 +6,7 @@ This project performs **Exploratory Data Analysis (EDA)** on a Netflix dataset t
 
 The analysis focuses on understanding content distribution, release trends, ratings, genres, and other key features using Python.
 
----
+--
 
 ## 🎯 Objective
 
